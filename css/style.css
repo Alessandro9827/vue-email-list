@@ -5,3 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ul li {
+    padding-left: 2rem;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+}
